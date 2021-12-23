@@ -70,7 +70,7 @@ ul{
     border-top: 1px solid lightgrey;
 }
 @media screen and (max-width: 980px){
-    #quiz{
+    #head{
         width: 320px;
     }
     
