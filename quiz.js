@@ -90,9 +90,9 @@ const test = [
 
 ];
 
-const quiz= document.getElementById('quiz')
+const quiz= document.getElementById('head')
 const check = document.querySelectorAll('.check')
-const questioncheck = document.getElementById('question')
+const questioncheck = document.getElementById('option')
 const first_check = document.getElementById('first_check')
 const second_check = document.getElementById('second_check')
 const third_check = document.getElementById('third_check')
